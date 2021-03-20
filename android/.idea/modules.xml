@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/783781516/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/783781516/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/839254438/android.cloud_firestore_web.iml" filepath="$PROJECT_DIR$/.idea/modules/839254438/android.cloud_firestore_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/446050699/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/446050699/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-622422628/android.firebase_core_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-622422628/android.firebase_core_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-956409369/android.firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-956409369/android.firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-306025411/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-306025411/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/571423943/android.geoflutterfire.iml" filepath="$PROJECT_DIR$/.idea/modules/571423943/android.geoflutterfire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1994061367/android.geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/1994061367/android.geolocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1053021479/android.google_api_availability.iml" filepath="$PROJECT_DIR$/.idea/modules/-1053021479/android.google_api_availability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1560592604/android.google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1560592604/android.google_maps_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-938032997/android.location.iml" filepath="$PROJECT_DIR$/.idea/modules/-938032997/android.location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-222617084/android.location_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-222617084/android.location_permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1473656852/android.location_web.iml" filepath="$PROJECT_DIR$/.idea/modules/-1473656852/android.location_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/855557459/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/855557459/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1277050603/android.path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-1277050603/android.path_provider_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1910701605/android.path_provider_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1910701605/android.path_provider_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1991501976/android.path_provider_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/-1991501976/android.path_provider_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2108658506/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-2108658506/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-175457441/android.shared_preferences_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-175457441/android.shared_preferences_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1688562409/android.shared_preferences_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1688562409/android.shared_preferences_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2043683715/android.shared_preferences_web.iml" filepath="$PROJECT_DIR$/.idea/modules/2043683715/android.shared_preferences_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/765797100/android.shared_preferences_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/765797100/android.shared_preferences_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1706836532/android.sms.iml" filepath="$PROJECT_DIR$/.idea/modules/-1706836532/android.sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/338464143/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/338464143/android.sqflite.iml" />
+    </modules>
+  </component>
+</project>
